@@ -1,0 +1,1011 @@
+<!DOCTYPE html><html lang="en"><head>
+   <meta charset="utf-8"></meta>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"></meta>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+   <title>The Graduate School | Stony Brook University</title><meta name="keywords" content="graduate school website"/><meta name="description" content="graduate school website"/><meta property="og:title" content="The Graduate School | Stony Brook University"/><meta property="og:description" content="graduate school website"/><meta property="og:type" content="website"/><meta property="og:url" content="https://www.stonybrook.edu/commcms/grad/index.php"/><meta property="og:image" content="https://www.stonybrook.edu/commcms/_resources/images/branding/rays/red-rays-full-2.png"/><link rel="canonical" href=" "/>   <link rel="apple-touch-icon" href="https://www.stonybrook.edu/commcms/_resources/favicon/apple-touch-icon-144x144-precomposed.png"></link>
+   <link rel="icon" href="https://www.stonybrook.edu/commcms/_resources/favicon/apple-touch-icon.png"></link>
+   <meta name="msapplication-TileColor" content="#000000"></meta>
+   <meta name="msapplication-TileImage" content="https://www.stonybrook.edu/commcms/_resources/favicon/apple-touch-icon-144x144-precomposed.png"></meta><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/jquery/jquery-1.11.1.min.js"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/jquery.animateNumber.min.js"></script><link rel="stylesheet" type="text/css" href="//www.stonybrook.edu/css/main.css?ver=1.4.1"></link>
+   <link rel="stylesheet" type="text/css" href="//www.stonybrook.edu/css/new-brand.css?ver=1.4.1"></link>
+   <link rel="stylesheet" type="text/css" href="//www.stonybrook.edu/css/nav.css?ver=1.4.1"></link>
+   <link rel="stylesheet" type="text/css" href="//www.stonybrook.edu/css/elements/to-top-link/to-top.css?ver=1.4.1"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/main-v2.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/topnav-responsive-v2.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/banner-responsive-v2.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/search-responsive-v2.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/row2.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/sections-responsive-v2.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/cards.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/footer.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/print.css?ver=1.4.1" rel="stylesheet" type="text/css" media="print"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/responsive-v2.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/grad/_includes/site.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <style>
+	div.navWrap ul li:last-child a {
+    	background-color: black;
+		border: 1px solid black;
+	}	
+	div.navWrap ul li:last-child a:hover, div.navWrap ul li:last-child a:focus {
+    	background-color: #a00;
+		border: 1px solid #a00;
+	}
+	</style><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/responsive.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/plugins.js?ver=1.4.1"></script><link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"></link>
+   <link rel="stylesheet" href="https://use.typekit.net/vtu8fxm.css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/owl-carousel/owl.carousel.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/owl-carousel/owl.carousel.custom.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/banner-buttons/banner-buttons.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/owl-carousel/owl.theme.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/owl-carousel/owl.transitions.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/slick-1.8/slick.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/slick-1.8/slick-theme.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/sb/filter/text-filter.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/faculty-list/faculty-list.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/tablesaw/tablesaw.bare.css?ver=1.4.1" rel="stylesheet" type="text/css" media="screen"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/css/sb/accordion-nav/accordion-nav-v2.css?ver=1.4.1" rel="stylesheet" type="text/css"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/tooltipster/tooltipster.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/tooltipster/themes/tooltipster-light.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/nivo-lightbox/nivo-lightbox.css?ver=1.4.1" rel="stylesheet"></link>
+   <link href="https://www.stonybrook.edu/commcms/_resources/plugins/nivo-lightbox/themes/default/custom.css?ver=1.4.1" rel="stylesheet"></link><script src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script><script type="text/javascript">
+					var COMMENT_PAGE_URL ="https://www.stonybrook.edu/commcms/grad/index.php";
+					var COMMENT_PAGE_IDENTIFIER ="6d81cf7e-68c0-4201-99b1-17337b48f9a6";
+					var DOMAIN ="https://www.stonybrook.edu/commcms";					
+				</script><script type="text/javascript" src="//script.crazyegg.com/pages/scripts/0003/0382.js" async="async"></script></head><body class="responsive-template new-brand" data-template-version="2" data-ou-page-path="https://www.stonybrook.edu/commcms/grad/index.php" data-ou-dirname="/grad" data-ou-site-url="https://www.stonybrook.edu/grad">
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P43R9T&gtm_auth=jCHsNovKQBjtTL9y_RXzMQ&gtm_preview=env-1&gtm_cookies_win=x"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=jCHsNovKQBjtTL9y_RXzMQ&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P43R9T');</script>
+    <!-- End Google Tag Manager -->
+
+<!--Facebook SDK-->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1740688096184427',
+      xfbml      : true,
+      version    : 'v4.0'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!--[if lt IE 8]>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience. Thanks!</p>
+<![endif]-->
+
+
+
+<script async="async" src="https://enroll.stonybrook.edu/ping">/**/</script>   <div id="emergency-message-container"></div>
+   <div id="main-wrapper" class="">
+      <div id="main"><a class="skip-navigation-link" href="#main-site-content" data-scroll="false" tabindex="0">Skip Navigation</a>
+         <div class="cms-site-search-wrapper clearfix">
+	<div class="cms-site-search search-bar clearfix hide-accessible">
+		<div class="search">
+			<form class="form-search clearfix" action="https://www.stonybrook.edu/search" method="get" name="seek1">
+				<label for="search-query" class="hide-accessible">Search Text</label>
+				<input id="search-query" class="search-txt" type="search" name="q" value="" maxlength="100" placeholder="Enter search term" />
+				<input id="site-name" type="hidden" name="site" value="" />
+				<input id="page-fade" type="hidden" name="pf" value="1" />
+				<input class="search-btn" type="submit" value="Search" />
+			</form>
+		</div>
+		<form class="toggle-wrapper hidden">
+			<div class="switch switch-red hidden">
+				<span class="hidden">Select Search Scope</span>
+				<fieldset>
+					<legend>Search This Site</legend>
+					<input id="site-search" type="radio" class="switch-input hidden" name="view" value="site-search" id="search-site-toggle" checked="checked" tabindex="0" role="button" aria-label="Search Just This Site">
+					<label for="site-search" class="switch-label switch-label-off hidden">Just This Site</label>
+				</fieldset>
+				<fieldset>
+					<legend>Search SBU Website</legend>
+					<input type="radio" class="switch-input hidden" name="view1" value="sb-search" id="sb-search" tabindex="0" role="button" aria-label="Search all of Stony Brook University">
+					<label for="sb-search" class="switch-label switch-label-on hidden">SBU Website</label>
+				</fieldset>
+				<span class="switch-selection hidden"></span>
+			</div>
+		</form>
+	</div>
+	<div class="searchWrap">
+	   <span class="search-sb" tabindex="3" role="button" aria-label="Search">Search</span>
+	</div>
+</div>
+<div class="nav-elements-container desktop-only">
+            <div class="cms-search">
+               <nav id="header" class="quick-nav clearfix" data-search-style="default">
+                  <div class="quick-nav-wrapper clearfix">
+                     <ul xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" class="no-pad-wrapper border-box   quicknav_selected_true clearfix"><li xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata"><a href="https://www.stonybrook.edu/commcms/postdoc/" target="_blank"><span class="label clearfix">Postdoctoral Affairs</span></a></li><li xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata"><a href="https://www.stonybrook.edu/phd-career-ladder/" target="_blank"><span class="label clearfix">PhD Career Ladder</span></a></li><li xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata"><a href="https://www.stonybrook.edu/commcms/fellowships/" target="_blank"><span class="label clearfix">External Fellowships</span></a></li><script src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/news.js"></script><li class="search-trigger-wrapper"><span class="search-trigger"><span class="label clearfix">Search</span></span></li>
+                     </ul>
+                     <div class="search-container default clearfix border-box">
+	<form class="search-wrapper" action="https://www.stonybrook.edu/search" method="get">
+		<label for="search-form-query1" class="hide-accessible">Search Text</label>
+		<input type="text" id="search-form-query1" name="q" title="Search" value="" class="populate" size="30" maxlength="100" placeholder="Search" /><button name="submit" type="submit" class="btn btn-success" id="search-form-submit1" alt="Search">
+		<span class="icon fa fa-search"></span><span class="hide-accessible">Search</span>
+		</button>
+		<label for="search-form-site" class="hidden">Site</label>
+		<input class="hidden" id="search-form-site" type="hidden" name="site" value="" />
+		<label for="page-fade" class="hidden">Site</label>
+		<input class="hidden" id="page-fade1" type="hidden" name="pf" value="1" />
+	</form>
+</div>
+</div>
+               </nav>
+            </div>
+         </div>
+         <div class="logo-container clearfix border-box ">
+            <header class="header clearfix">
+               <div class="logo-wrapper clearfix">
+                  <div class="logo"><a href="https://www.stonybrook.edu/"><img src="https://www.stonybrook.edu/commcms/_resources/images/stony-brook-university-logo-horizontal.png" alt="Stony Brook University" width="357" height="68"></img></a></div>
+                  <div class="site-name serif"><a class="" href="https://www.stonybrook.edu/grad" data-search-url="https://www.stonybrook.edu/grad">The Graduate School</a></div>
+               </div>
+            </header>
+         </div>
+         <div class="navWrap big_n_bold sitenav clearfix"><!-- ouc:editor csspath="/_resources/ou/editor/includes.css" cssmenu="/_resources/ou/editor/includes.txt" width="955"/ --><ul>
+<li class="home-icon"><a href="https://www.stonybrook.edu/commcms/grad/index.php" aria-label="Home"><span class="hide-accessible">Home</span></a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/about/dean_message.php">About</a>
+<ul>
+<li><a href="https://www.stonybrook.edu/commcms/grad/about/mission_vision.php">Mission and Vision</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/about/meet_the_team.php">Meet the Team</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/about/graduate_student_advocate.php">Graduate Student Advocate</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/about/graduate_council.php">Graduate Council</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/tuition_funding/graduate-school-programs/graduate-awards/index.php">Graduate Awards</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/news/index.php">News</a></li>
+</ul>
+</li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/academics/index.php">Academics</a>
+<ul>
+<li><a href="https://www.stonybrook.edu/commcms/grad/academics/programs.php">Explore Programs</a></li>
+<li><a href="https://www.stonybrook.edu/sb/graduatebulletin/current/" target="_blank" rel="noopener">Graduate Bulletin</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/academics/student_resources.php">Student Resources</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/academics/faculty_resources.php">Faculty and Staff Resources</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/academics/calendar.php">Calendar</a></li>
+</ul>
+</li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/admissions/index.php">Admissions</a>
+<ul>
+<li><a href="https://www.stonybrook.edu/commcms/grad/admissions/index.php">Apply Now</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/admissions/learn-more.php">Request Information</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/admissions/contact.php" target="_blank" rel="noopener">Contact Admissions</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/admissions/new_student_roadmap.php">New Student Information</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/tuition_funding/index.php">Tuition and Funding</a></li>
+</ul>
+</li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/admissions/campus-life.php">Life at SBU</a>
+<ul>
+<li><a href="https://www.stonybrook.edu/commcms/grad/diversity/index.php">Diversity</a></li>
+</ul>
+</li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/professional_development/index.php">Professional Development</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/contact.php">Contact Us</a>
+<ul>
+<li><a href="https://www.stonybrook.edu/commcms/grad/contact.php">Graduate School Staff</a></li>
+<li><a href="https://www.stonybrook.edu/commcms/grad/about/program_directory/index.php">Graduate Program Directory</a></li>
+</ul>
+</li>
+<li><a href="https://alumniandfriends.stonybrook.edu/site/Donation2?df_id=2819&amp;2819.donation=form1&amp;mfc_pref=T%5C" target="_blank" rel="noopener">GIVE NOW &nbsp; ➞ </a></li>
+</ul></div>
+         <div id="main-site-content" class="content-wrapper clearfix">
+            <link rel="stylesheet" type="text/css" href="https://www.stonybrook.edu/commcms/_resources/css/owl-carousel/owl.carousel.css" media="all"></link>
+            <link rel="stylesheet" type="text/css" href="https://www.stonybrook.edu/commcms/_resources/css/owl-carousel/owl.theme.css" media="all"></link>
+            <link rel="stylesheet" type="text/css" href="https://www.stonybrook.edu/commcms/_resources/css/owl-carousel/owl.custom.css" media="all"></link>
+            <link rel="stylesheet" type="text/css" href="https://www.stonybrook.edu/commcms/_resources/css/owl-carousel/owl.transitions.css" media="all"></link><script src="https://www.stonybrook.edu/commcms/_resources/js/owl-carousel/owl.carousel.min.js"></script><script type="text/javascript">
+					$(document).ready(function () {
+
+					var owl = $("#the-carousel-d19e66");
+
+					var owlSlides = owl.children('.item').length;
+					var autoPlayValue = '';
+					if(owlSlides==1) {
+					autoPlayValue = false;
+					$('.owl-prev-d19e66').remove();
+					$('.owl-next-d19e66').remove();
+					} else {
+					autoPlayValue = 8000;
+					$('.owl-prev-d19e66').on('click', function() {
+					owl.trigger('owl.prev');
+					});
+					$('.owl-next-d19e66').on('click', function() {
+					owl.trigger('owl.next');
+					});
+					}
+
+					owl.owlCarousel({
+					autoPlay: autoPlayValue,
+					navigation : false, // Show default next and prev buttons
+					slideSpeed : 300,
+					paginationSpeed : 400,
+					singleItem: true,
+					transitionStyle : "fade"
+					});
+
+					});
+				</script><div class="marquee-section marquee-section-larger full_width_splash_gradient  hide-marquee-dots hide-marquee-arrows  &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;banner-position_default clearfix">
+               <div id="the-carousel-d19e66" class="owl-carousel">
+                  <div class="item">
+                     <div class="responsive-splash-header-1 clearfix" style="background-image: url('https://www.stonybrook.edu/commcms/user/commcms/wwwldp/images/.private_ldp/a352190/production/master/9999505a-4f84-46de-b740-966c76bc40cc.JPG')">
+                        <div class="splash-overlay-double-wrapper">
+                           <div class="splash-overlay-wrapper">
+                              <div class="splash-overlay-1">
+                                 <div class="text-wrap">
+                                    <h2 class="section-header">Transform Your Future</h2>
+                                    <h3 class="section-header">Apply to Graduate School at Stony Brook University</h3><a class="sbu-outline-button sbu-outline-button--red sbu-outline-button--on-red arrow-after " href="https://www.stonybrook.edu/commcms/grad/admissions/index.php" title="Transform Your Future">Apply Now</a></div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="container-wrapper">
+               <div class="clearfix responsive-container">
+                  <div class="maincontent-before clearfix">
+                     <div xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" class="whole clearfix section-bkg-container column-layout-container " style=" background-image: url('https://www.stonybrook.edu/commcms/_images/section-backgrounds/red-rays/red-rays-cropped-2.jpg'); background-size: cover; ">
+                        <div class="border-box wrapper clearfix">
+                           <div class="sbu-columns border-box content whole clearfix   no-pad-top no-pad-bottom no-margin-top no-margin-bottom  ">
+                              <div class="sbu-columns--column one-quarter &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;left-col-content right-border-section&#xA;&#x9;&#x9;&#x9;">
+                                 <td style="text-align: center;"><a class="sbu-outline-button sbu-outline-button--red sbu-outline-button--on-white arrow-after  " href="https://www.stonybrook.edu/commcms/grad/academics/programs.php" title="EXPLORE ACADEMIC PROGRAMS" target="" style="width: px;" data-options="" role="button">EXPLORE ACADEMIC PROGRAMS</a></td>
+                              </div>
+                              <div class="sbu-columns--column one-quarter &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#x9;left-col-content right-border-section&#xA;&#x9;&#x9;&#x9;">
+                                 <td style="text-align: center;"><a class="sbu-outline-button sbu-outline-button--red sbu-outline-button--on-white arrow-after  " href="https://www.stonybrook.edu/commcms/grad/academics/calendar.php" title="EVENTS AND IMPORTANT DATES" target="" style="width: px;" data-options="" role="button">EVENTS AND IMPORTANT DATES</a></td>
+                              </div>
+                              <div class="sbu-columns--column one-quarter right-border-section&#xA;&#x9;&#x9;&#x9;">
+                                 <td style="text-align: center;"><a class="sbu-outline-button sbu-outline-button--red sbu-outline-button--on-white arrow-after  " href="https://www.stonybrook.edu/commcms/grad/academics/student_resources.php" title="RESOURCES FOR STUDENTS" target="" style="width: px;" data-options="" role="button">RESOURCES FOR STUDENTS</a></td>
+                              </div>
+                              <div class="sbu-columns--column one-quarter">
+                                 <td style="text-align: center;"><a class="sbu-outline-button sbu-outline-button--red sbu-outline-button--on-white arrow-after  " href="https://www.stonybrook.edu/commcms/grad/academics/faculty_resources.php" title="RESOURCES FOR FACULTY AND STAFF" target="" style="width: px;" data-options="" role="button">RESOURCES FOR FACULTY AND STAFF</a></td>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="clearfix responsive-container">                  <div id="list">
+                     <div class="card-wrapper"></div>
+                  </div><script src="https://pagination.js.org/dist/2.6.0/pagination.min.js"></script><link rel="stylesheet" href="https://pagination.js.org/dist/2.6.0/pagination.css"></link><script>
+		function htmlDecode(input) {
+  			var doc = new DOMParser().parseFromString(input, "text/html");
+  			return doc.documentElement.textContent;
+			}
+		let url = htmlDecode("https://news.stonybrook.edu/wp-json/wp/v2/posts?categories=158&amp;per_page=100");
+        $.getJSON(url, function (json) {
+            $('#list').pagination({
+                dataSource: json,
+                locator: 'per_page',
+                pageSize: 6,
+                callback: function (data, pagination) {
+                    var wrapper = $('#list .card-wrapper').empty();
+                    let image;
+                    let imageAlt;
+                    $.each(data, function (i, f) {
+                        if (f.hasOwnProperty("featured_image_url")) {
+								image = f.featured_image_url;
+                            	imageAlt = f.acf.secondary_featured_image.alt;
+                        }else{
+                            image = "https://www.stonybrook.edu/commcms/_resources/images/logos/SBU-vert_red_rgb_72ppi.png";
+                            imageAlt = "SBU logo";
+                        }
+                        
+                        let articleDate = new Date(f.date);
+                        var options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+                        $('#list .card-wrapper').append(`<article class="gridlove-post gridlove-post-a gridlove-box post-2430 post type-post status-publish format-standard hentry category-alumni tag-advancement tag-campaign-for-stony-brook tag-donations tag-wolfstock"><div class="entry-image"><a href="${f.link}"><img alt="${imageAlt}" src="${image}"></img></a></div><div class="box-inner-p"><div class="box-inner-ellipsis"><div style="margin: 0px; padding: 0px; border: 0px;"><h2 class="entry-title h3" style="overflow: hidden;text-overflow: ellipsis;display: -webkit-box;-webkit-line-clamp: 2;-webkit-box-orient: vertical;"><a href="${f.link}">${f.title.rendered}</a></h2></div></div><div class="entry-meta"><div class="meta-item meta-date"><span class="updated department-news-story_date">${articleDate.toLocaleDateString('en-US', options)}</span></div></div></div></article>`);
+                    });
+                }
+            });
+        });
+    </script><style>
+	/* card layout for articles */
+.card-wrapper {
+    display: grid;
+    max-width: 1000px;
+	margin:24px auto;
+    grid-gap: 1rem;
+    grid-auto-rows: 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  }
+  @media (max-width: 60em) {
+    .grid {
+      grid-gap: 1rem;
+    }
+  }
+  .card a:link{
+    text-decoration: none;
+    text-align: center;
+  }
+  .grid__item {
+    background-color: #fff;
+    border-radius: 0.4rem;
+    overflow: hidden;
+    box-shadow: 0 3rem 6rem rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s;
+  }
+  .grid__item:hover {
+    transform: translateY(-0.5%);
+    box-shadow: 0 4rem 8rem rgba(0, 0, 0, 0.2);
+  }
+  
+  .card__img {
+    display: block;
+    width: 100%;
+    height: 18rem;
+    object-fit: cover;
+  }
+  .card__content {
+    padding: 1rem 1rem;
+  }
+  .card__header {
+    font-weight: 500;
+    color: #0d0d0d;
+    margin-bottom: 1.5rem;
+  }
+	.card__content h3{
+		font-size: 1.25rem !important;
+	}
+  .card__text {
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+    line-height: 1.7;
+    color: #3d3d3d;
+    margin-bottom: 2.5rem;
+  }
+  .card__btn {
+    display: block;
+    width: 100%;
+    padding: 1.5rem;
+    font-size: 2rem;
+    text-align: center;
+    color: #3363ff;
+    background-color: #e6ecff;
+    border: none;
+    border-radius: 0.4rem;
+    transition: 0.2s;
+    cursor: pointer;
+  }
+  .card__btn span {
+    margin-left: 1rem;
+    transition: 0.2s;
+  }
+  .card__btn:hover, .card__btn:active {
+    background-color: #dce4ff;
+  }
+  .card__btn:hover span, .card__btn:active span {
+    margin-left: 1.5rem;
+  }	
+	/* center pagination  */
+	.paginationjs{
+		justify-content: center !important;
+		margin-bottom: 1.5rem;
+	}
+   /* Department News */
+
+.department-news-story_byline {
+  padding: 0 0 10px;
+  color: #818181;
+}
+
+.department-news-story_date,
+.department-news-story_ert {
+  color: #818181;
+}
+
+span.department-news-story_date:before,
+span.department-news-story_ert:before {
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  z-index: 1;
+  font-size: 16px;
+  padding: 0 5px 0 0;
+  color: #818181;
+}
+
+span.department-news-story_date:before {
+  content: "\f073";
+}
+
+span.department-news-story_ert:before {
+  content: "\f017";
+}
+
+span.department-news-story_ert {
+  padding: 0 0 0 15px;
+}
+
+.department-news-story_content {
+  color: #4b4b4b;
+}
+
+img.department-news-story_featured_image {
+  padding-bottom: 20px;
+}
+
+a.department-news-story_read-external {
+  float: right;
+  display: block;
+  font-size: 13px;
+  color: #111 !important;
+  background: rgba(17, 17, 17, 0.08);
+  padding: 0 10px;
+  border-radius: 25px;
+}
+
+a.department-news-story_read-external:hover {
+  color: #fff !important;
+  background: #900;
+  text-decoration: none !important;
+
+}
+
+a.department-news-story_read-external:after {
+  font-family: FontAwesome;
+  content: "\f14c";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  z-index: 1;
+  padding: 0 0 0 5px;
+}
+
+#container .content .department-news-story .alignright {
+  float: right;
+  padding: 10px;
+}
+
+#container .content .department-news-story .alignleft {
+  float: left;
+  padding: 10px;
+}
+
+#container .content .department-news-story .wp-caption {
+  max-width: 100%;
+}
+
+#container .content .department-news-story p.wp-caption-text {
+  background: #eee;
+  padding: 15px;
+  margin: 0 0 5px;
+}
+
+@media only screen and (min-width: 1024px) {
+  img.department-news-story_featured_image {
+      max-width: 580px;
+      float: right;
+      display: inline-block;
+      padding: 0 0 10px 15px;
+  }
+}
+
+/* Gridlove share wrapper */
+.gridlove-content, .gridlove-share-wrapper, .gridlove-sidebar {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.gridlove-share-wrapper {
+  width: 100%;
+  -webkit-box-flex: 0;
+  -ms-flex: 0 0 100px;
+  flex: 0 0 100px;
+  position: relative;
+}
+.gridlove-share {
+  width: 100%;
+  background: #FFF;
+  padding: 16px;
+  text-align: center;
+  margin-bottom: 0;
+}
+.gridlove-share-wrapper .gridlove-share {
+  position: relative;
+  padding-top: 0;
+  text-align: center;
+}
+.gridlove-share-wrapper .gridlove-share:before {
+  display: inline-block;
+  content: "Share:";
+  font-size: 14px;
+  padding: 4px 2px 0 0;
+
+}
+.gridlove-share a {
+  display: inline-block;
+  height: 33px;
+  width: 33px;
+  border-radius: 2px;
+  margin: 0 2px 10px;
+  line-height: 33px;
+  font-size: 14px;
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+.gridlove-share a &gt; *,
+.gridlove-share a &gt; *:hover {
+  color: #fff !important;
+}
+.gridlove-author-links .fa-facebook, .gridlove-facebook, .gridlove-soc-menu li a[href*="facebook.com"]:before {
+  background-color: #3b5998;
+}
+.gridlove-author-links .fa-twitter, .gridlove-soc-menu li a[href*="twitter.com"]:before, .gridlove-twitter {
+  background-color: #55acee;
+}
+.gridlove-author-links .fa-pinterest, .gridlove-pinterest, .gridlove-soc-menu li a[href*="pinterest.com"]:before {
+  background-color: #c8232c;
+}
+.gridlove-author-links .fa-google, .gridlove-gplus, .gridlove-soc-menu li a[href*="google.com"]:before {
+  background-color: #dd4b39;
+}
+.gridlove-author-links .fa-linkedin, .gridlove-linkedin, .gridlove-soc-menu li a[href*="linkedin.com"]:before {
+  background-color: #0e76a8;
+}
+.gridlove-mailto {
+  background-color: #95a5a6;
+}
+.gridlove-share a:hover {
+  background: rgba(17, 17, 17, .8);
+  color: #FFF;
+}
+
+@media only screen and (min-width: 540px) {
+  .gridlove-share a {
+      width: 49px;
+      padding: 0 8px;
+      margin: 0 4px 10px;
+  }
+  .gridlove-share-wrapper .gridlove-share:before {
+      display: inline-block;
+      content: "Share:";
+      font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 760px) {
+  .gridlove-share a {
+      width: 67px;
+      padding: 0 8px;
+      margin: 0 6px 10px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .gridlove-share a {
+      width: 92px;
+      padding: 0 8px;
+  }
+}
+
+@media only screen and (min-width: 1320px) {
+  .gridlove-share-wrapper {
+      width: 100px;
+  }
+  .gridlove-share {
+      width: 70px;
+  }
+  .gridlove-share-wrapper .gridlove-share {
+      position: fixed;
+      left: 1%;
+      padding-top: 30px;
+      padding-bottom: 5px;
+      -webkit-box-shadow: 0 3px 5px 0 rgba(0,1,1,.1);
+      box-shadow: 0 3px 5px 0 rgba(0,1,1,.1);
+      background: #FFF;
+  }
+  .gridlove-share-wrapper .gridlove-share:before {
+      content: "Share:";
+      font-size: 12px;
+      position: absolute;
+      top: 8px;
+      left: 0;
+      right: 0;
+      text-align: center;
+      padding: 0;
+      margin: 0;
+  }
+  .gridlove-share a {
+      display: block;
+      clear: both;
+      height: 33px;
+      width: 33px;
+      border-radius: 2px;
+      margin: 0 auto 10px;
+      line-height: 33px;
+      font-size: 14px;
+      -webkit-transition: all .2s ease-in-out;
+      transition: all .2s ease-in-out;
+  }
+}
+
+/* department-news-stories */
+
+@media (min-width: 100px) {
+  --grid .row {
+      column-count: 1;
+      column-gap: 0;
+  }
+}
+
+@media (min-width: 580px) {
+  --grid .row {
+      column-count: 2;
+      column-gap: 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  --grid .row {
+      column-count: 3;
+      column-gap: 1em;
+  }
+}
+
+--grid .row {
+  display: grid;
+  grid-gap: 20px 0;
+  grid-template-columns: repeat(auto-fill, minmax(350px,1fr));
+  grid-auto-rows: 20px;
+}
+
+ .gridlove-posts .layout-simple {
+  padding: 0 15px;
+  display: inline-block;
+  margin: 0 0 1em;
+  width: 100%;
+}
+
+.col_content  .gridlove-posts .layout-simple {
+  padding: 0;
+}
+
+ h2.entry-title {
+  font-family: "Effra", "Effra", "Effra W01" !important;
+  font-weight: 700 !important;
+  font-size: 22px !important;
+  line-height: 1.1em !important;
+  padding: 0;
+  margin: 0 0 12px !important;
+}
+
+ h2.entry-title a {
+  color: #000 !important;
+  text-decoration:none;
+}
+
+ h2.entry-title a:hover {
+  color: #900 !important;
+  text-decoration: none !important;
+}
+
+ .gridlove-box, #disqus_thread {
+  background: #ffffff;
+}
+ .gridlove-post {
+  font-size: 16px;
+}
+ .gridlove-box {
+  -webkit-box-shadow: 0 3px 5px 0 rgba(0,1,1,.15);
+  box-shadow: 0 3px 5px 0 rgba(0,1,1,.15);
+  background: #FFF;
+}
+ .gridlove-post {
+  height: 300px;
+  height: auto;
+  line-height: 1.375;
+}
+ .gridlove-post-a .box-inner-p {
+  padding: 23px 30px 30px;
+}
+
+ .box-vm, .gridlove-post, .module-empty {
+  margin-bottom: 30px;
+}
+
+ .gridlove-actions-button&gt;span, .gridlove-actions&gt;li, .gridlove-post, .gridlove-post-a .entry-image {
+  position: relative;
+}
+
+ .gridlove-post-a .entry-image img {
+  height: 240px !important;
+  -o-object-fit: cover;
+  object-fit: cover;
+  width: 100%;
+}
+
+--no-image .gridlove-post-a .entry-image img {
+  height: 20px !important;
+  -o-object-fit: cover;
+  object-fit: cover;
+  width: 100%;
+}
+
+ .gridlove-post-a .entry-category {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  z-index: 2;
+  width: 80%;
+  right: 30px;
+}
+ .gridlove-post-a .entry-category {
+  margin-bottom: 8px;
+  pointer-events: none;
+}
+
+ .entry-category a, .gridlove-action-link, .gridlove-pill {
+  font-size: 11px;
+  font-weight: 700;
+}
+
+ .entry-category a {
+  display: inline-block;
+  height: auto;
+  line-height: 10px;
+  padding: 7px 11px 6px;
+  vertical-align: top;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+ .entry-category a, .gridlove-action-link, .gridlove-pill {
+  font-size: 10px;
+  border-radius: 20px;
+  margin-right: 5px;
+  pointer-events: auto;
+  -webkit-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+  text-transform: uppercase;
+}
+
+ .gridlove-pagination {
+  position: relative;
+  padding-top: 4px;
+  min-height: 43px;
+  clear: both;
+  text-align: center;
+  display: block;
+  clear: both;
+  width: 100%;
+}
+
+ .gridlove-pagination .current {
+  background-color: rgba(94,94,94,0.1);
+}
+
+ .gridlove-link-pages a, .gridlove-link-pages span, .gridlove-pagination .page-numbers {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 2px;
+  line-height: 50px;
+}
+
+ .gridlove-load-more a, .gridlove-pagination .gridlove-next a, .gridlove-pagination .gridlove-prev a, .gridlove-pagination .next, .gridlove-pagination .prev, .gridlove-infinite-scroll a, .double-bounce1, .double-bounce2, .gridlove-link-pages &gt; span, .module-actions ul.page-numbers span.page-numbers {
+  color: #FFF;
+  background-color: #990000;
+}
+
+ .gridlove-pagination a {
+  text-decoration: none !important;
+  color: #000 !important;
+}
+
+ .gridlove-pagination a:hover {
+  text-decoration: none !important;
+  color: #900 !important;
+}
+
+ .gridlove-pagination a.next {
+  margin-left: 20px;
+  text-decoration: none !important;
+  color: #fff !important;
+  font-weight: 500;
+}
+
+--no-images .gridlove-post-a .entry-image img {
+  height: 20px !important;
+}
+
+/* department-news-stories--list */
+
+@media (min-width: 600px) {
+
+  --list article.gridlove-post {
+      display: block;
+      float: left;
+      /* box-shadow: none; */
+      margin-bottom: 0;
+      width: 100%;
+  }
+
+  --list .entry-image,
+  --list .box-inner-p {
+      display: inline-block;
+      float: left;
+  }
+  --list .entry-image {
+      width: 35%;
+  }
+  --list .box-inner-p {
+      width: 65%;
+  }
+   .gridlove-post-a .entry-image img {
+      height: 180px !important;
+  }
+
+  --no-images .box-inner-p {
+      width: 98%;
+  }
+  --no-images .entry-image {
+      width: 2%;
+      bottom: 0;
+      position: absolute;
+      top: 0;
+  }
+  --no-images .gridlove-post-a .entry-image img {
+      height: 100% !important;
+  }
+
+}
+
+@media (min-width: 1024px) {
+
+  --list .entry-image {
+      width: 22%;
+  }
+  --list .box-inner-p {
+      width: 78%;
+  }
+
+  --no-images .box-inner-p {
+      width: 98.5%;
+  }
+  --no-images .entry-image {
+      width: 1.5%;
+  }
+
+  --no-images #container .content img {
+      height: auto;
+      height: 140px !important;
+  }
+
+}
+
+--small .gridlove-post-a .box-inner-p {
+  padding: 0;
+}
+--small .gridlove-box {
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: transparent;
+}
+--small .entry-image {
+  display: none !important;
+}
+--small h2.entry-title.h3 {
+  font-size: 1.1em !important;
+  margin: 0 !important;
+  padding: 0 0 3px;
+}
+--small .entry-meta {
+  font-size: 0.9em !important;
+  text-align: left;
+}
+--small .layout-simple {
+  border-bottom: 1px solid #ddd;
+  padding: 15px 0 !important;
+  margin: 0 !important;
+}
+
+.gridlove-infinite-scroll a, .gridlove-load-more a, .gridlove-pagination .gridlove-next a, .gridlove-pagination .gridlove-prev a, .gridlove-pagination .next, .gridlove-pagination .prev {
+  height: 50px;
+  min-width: 150px;
+  text-align: center;
+  text-transform: uppercase;
+  -webkit-box-shadow: 0 3px 5px 0 rgba(0,0,0,.1), inset 0 0 0 transparent;
+  box-shadow: 0 3px 5px 0 rgba(0,0,0,.1), inset 0 0 0 transparent;
+  display: inline-block;
+  vertical-align: top;
+  border-radius: 2px;
+  line-height: 50px;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 30px;
+  position: relative;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+.gridlove-load-more a, .gridlove-pagination .gridlove-next a, .gridlove-pagination .gridlove-prev a, .gridlove-pagination .next, .gridlove-pagination .prev, .gridlove-infinite-scroll a, .double-bounce1, .double-bounce2, .gridlove-link-pages &gt; span, .module-actions ul.page-numbers span.page-numbers {
+  color: #FFF;
+  background-color: #990000;
+}
+.gridlove-post-a .entry-image img {
+  height: 240px !important;
+  -o-object-fit: cover;
+  object-fit: cover;
+  width: 100%;
+}
+.gridlove-post-a .entry-image img {
+  height: 180px !important;
+}
+	</style>
+               </div>
+               <div class="clearfix responsive-container wrapper"></div>
+               <div class="clearfix responsive-container">
+                  <div xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" class="ranking-container" style="background-image: url(https://www.stonybrook.edu/commcms/_ying/_images/sky-background.jpg)">
+                     <div class="ranking-item">
+                        <div class="ranking-vertical" style="background: linear-gradient(#1391B1, #025598);">over 150</div>
+                        <div class="ranking-header"><span class="new-line">ACADEMIC</span><span class="new-line">GRADUATE</span><span class="new-line">PROGRAMS</span><span class="new-line"> </span></div>
+                        <hr class="ranking-hr"></hr>
+                        <div class="ranking-reference">- Stony Brook University</div>
+                     </div>
+                     <div class="ranking-item">
+                        <div class="ranking-vertical" style="background: linear-gradient(#1391B1, #025598);">DIVERSITY</div>
+                        <div class="ranking-header"><span class="new-line">TOP 10 NATIONAL</span><span class="new-line">university</span><span class="new-line">for diversity</span><span class="new-line"> </span></div>
+                        <hr class="ranking-hr"></hr>
+                        <div class="ranking-reference">- QS U.S. University Rankings, 2021</div>
+                     </div>
+                     <div class="ranking-item">
+                        <div class="ranking-vertical" style="background: linear-gradient(#1391B1, #025598);">funding</div>
+                        <div class="ranking-header"><span class="new-line">1822</span><span class="new-line">sponsored</span><span class="new-line">research</span><span class="new-line">awards</span></div>
+                        <hr class="ranking-hr"></hr>
+                        <div class="ranking-reference">- Stony Brook University</div>
+                     </div>
+                     <div class="ranking-item">
+                        <div class="ranking-vertical" style="background: linear-gradient(#1391B1, #025598);">NYS BEST</div>
+                        <div class="ranking-header"><span class="new-line">#1 PUBLIC</span><span class="new-line">UNIVERSITY</span><span class="new-line">IN</span><span class="new-line">NEW YORK</span></div>
+                        <hr class="ranking-hr"></hr>
+                        <div class="ranking-reference">- U.S. News &amp; World Report 2023 Best Colleges</div>
+                     </div>
+                  </div>
+               </div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container">
+                  <p><script src="https://www.stonybrook.edu/commcms/_resources/js/snippets/alda_cta_tabs_v2.js"></script></p>
+               </div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+            </div>
+         </div>
+         <aside class="social-sidebar">
+            <div class="sidebar-wrapper clearfix"><a class="white-bkg pinterest-red-hover circle print" href="javascript:window.print()" title="Print this page"><span class="label">print</span><em class="fa fa-print"></em></a></div>
+         </aside>
+         <div id="footer"><div id="footer-inner"><div xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" class="site-addr-info site-addr-info_address"><span class="site-addr site-addr-1">2401 Computer Science Building</span><span class="site-addr site-addr-2">Stony Brook, NY - 11794-4433</span></div><div xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" class="site-addr-info site-addr-info_phone"><span class="site-phone site-phone-1">Phone: (631) 632-4723</span></div><div xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" class="site-addr-info site-addr-info_email"><a href="/cdn-cgi/l/email-protection#81e6f3e0e5f2e2e9eeeeedc1f2f5eeeff8e3f3eeeeeaafe4e5f4" class="site-email site-email-1"><span class="__cf_email__" data-cfemail="70170211140313181f1f1c3003041f1e0912021f1f1b5e151405">[email&#160;protected]</span></a></div></div><div xmlns:dm="http://www.digitalmeasures.com/schema/data" xmlns:dmd="http://www.digitalmeasures.com/schema/data-metadata" class="site-addr-info "><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScW_Uc4kfzvlKlgwoJCHSJ2EG_6bd-LjcHowxnNGKV0309uxg/viewform?gxids=7628 ">Report an accessibility barrier</a></div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/news.js"></script><div class="site-copyright-info"><a id="cbw-edit" class="cbw-edit" href="http://a.cms.omniupdate.com/10?skin=oucampus&amp;account=suny-stonybrook&amp;site=sbcms&amp;action=de&amp;path=/grad/index.pcf" target="_blank">©<span class="hide-accessible">Admin Login</span></a><span class="the-current-year">2023</span><a href="https://www.stonybrook.edu/">Stony Brook University</a></div>
+         </div>
+      </div>
+   </div>
+   <!-- Hello --><script type="text/javascript" src="https://www.stonybrook.edu/js/vendor/jquery.sticky.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/js/vendor/jquery.easing.1.3.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/js/vendor/jquery.easing.compatibility.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/jquery.fittext.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/jquery.fastLiveFilter.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/jquery.scrollTo.min.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/jquery.localScroll.min.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/js/vendor/jquery.ba-bbq.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/js/vendor/jquery.motio.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/js/vendor/jquery.tooltipster.min.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/filter/text-filter.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/waypoints/jquery.waypoints.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/waypoints/shortcuts/inview.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/countUp.min.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/plugins/slick-1.8/slick.custom.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/plugins/nivo-lightbox/nivo-lightbox.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/main.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/plugins/tablesaw/tablesaw.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/accordion-nav/accordion-nav.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb/vendor/tooltipster/jquery.tooltipster.min.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/imagesloaded.pkgd.min.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/vendor/isotope.pkgd.min.js?ver=1.4.1"></script><script type="text/javascript" src="https://www.stonybrook.edu/commcms/_resources/js/sb-v2/filter/isotope-filter.js?ver=1.4.1"></script><script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5c461971c9830d001319aadb&amp;product=inline-share-buttons" async="async"></script>
+   <!-- ouc:info uuid="6d81cf7e-68c0-4201-99b1-17337b48f9a6"/ --></body></html>

@@ -1,0 +1,945 @@
+<!DOCTYPE html><html><head>
+   <meta charset="utf-8"></meta>
+   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"></meta>
+   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"></meta>
+   <title>Home | Graduate School</title>
+   <meta name="keywords" content="Graduate School"></meta>
+   <meta name="description" content="Graduate School"></meta>
+   <meta property="og:title" content="Home | Graduate School"></meta>
+   <meta property="og:description" content="Graduate School"></meta>
+   <meta property="og:type" content="website"></meta>
+   <meta property="og:url" content="http://www.stonybrook.edu/commcms/grad/index.php"></meta>
+   <meta property="og:image" content="https://www.stonybrook.edu/far-beyond/img/branding/logo/sbu/primary/300/stony-brook-university-logo-stack-300.png"></meta>
+   <link rel="apple-touch-icon" href="/commcms/_resources/favicon/apple-touch-icon-144x144-precomposed.png"></link>
+   <link rel="icon" href="/commcms/_resources/favicon/apple-touch-icon.png"></link>
+   <meta name="msapplication-TileColor" content="#000000"></meta>
+   <meta name="msapplication-TileImage" content="/commcms/_resources/favicon/apple-touch-icon-144x144-precomposed.png"></meta>
+   <script type="text/javascript" src="/commcms/_resources/js/jquery/jquery-1.11.1.min.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/jquery.animateNumber.min.js"></script>
+   <link rel="stylesheet" type="text/css" href="//www.stonybrook.edu/css/main.css"></link>
+   <link rel="stylesheet" type="text/css" href="//www.stonybrook.edu/css/new-brand.css"></link>
+   <link rel="stylesheet" type="text/css" href="//www.stonybrook.edu/css/nav.css"></link>
+   <link rel="stylesheet" type="text/css" href="//www.stonybrook.edu/css/elements/to-top-link/to-top.css"></link>
+   <link href="/commcms/_resources/css/main-v2.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/topnav-responsive-v2.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/banner-responsive-v2.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/search-responsive-v2.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/row2.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/sections-responsive-v2.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/cards.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/footer.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/print.css" rel="stylesheet" type="text/css" media="print"></link>
+   <link href="http://www.stonybrook.edu/commcms/grad/_includes/site.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/responsive-v2.css" rel="stylesheet" type="text/css"></link>
+   <style>
+      #row_1 .col p {
+      margin: 12px 0 0;
+      }
+      #row_1 .col p {
+      line-height: 1.2em;
+      }
+      			
+      			#row_1 .col .col_content {
+      				padding-bottom: 10px;
+      				
+      			}
+      			
+      			div#row_1 {
+      					padding-bottom: 40px;
+      				}
+      			
+      			h2, h3, h4, h5 {
+      margin-top: 0;
+      text-transform: none; }
+      
+      h2 {
+      font-size: 1.7rem;
+      }
+      @media (min-width: 400px) {
+      h2 {
+      font-size: 2rem;
+      }
+      }
+      
+      h1, h3,
+      .boldMovesBox-link,
+      .jumpAwayLink a,
+      .boldMovesBox-story p,
+      .site-nav a {
+      font-family: "Effra W01", "Effra W01 Heavy", Helvetica, sans-serif;
+      font-weight: 900; }
+      
+      ,
+      .boldMovesBox-story p{
+      font-weight: 700; }
+      
+      .site-nav a {
+      text-transform: uppercase;
+      			z-index:0;
+      			position:relative;}
+      
+      
+      .new-brand .content-wrapper .boldMoves h2 {
+      float: left;
+      	font-family: "Museo Slab W01", "Museo Slab", Gerogia, serif;
+      font-weight: 300;
+      			margin-bottom: 42px;
+      			color: #828282;
+      }
+      
+      
+      
+      .wpb_wrapper {
+      width: 90%;
+      max-width: 1160px;
+      margin: 0 auto; }
+      @media (min-width: 1161px) {
+      .wpb_wrapper {
+      width: 100%; } }
+      
+      
+      .navWrap{
+      			z-index:0;
+      			position:relative;
+      			}
+      
+      
+      
+      
+      .boldMoves .wpb_wrapper .jumpAwayLink {
+      text-align: right; }
+      .boldMoves .wpb_wrapper .jumpAwayLink {
+      text-align: right; }
+      
+      @media (max-width: 1160px) {
+      .boldMoves .wpb_wrapper {
+      width: 90%;
+      margin: 0 auto; } }
+      
+      @media (max-width: 600px) {
+      .boldMoves .wpb_wrapper {
+      width: 90%;
+      max-width: 360px;
+      margin: 0 auto; } }
+      
+      .boldMoves {
+      padding-bottom: 2rem; }
+      .boldMoves::after {
+      clear: both;
+      content: "";
+      display: table; }
+      .boldMoves h2 {
+      color: #828282; }
+      .boldMoves h2 span {
+      clear: left;
+      display: inline-block; }
+      
+      .boldMovesBox {
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      position: relative;
+      z-index: 10;
+      overflow: hidden;
+      float: left;
+      clear: right;
+      height: 360px;
+      background-color: #800000;
+      background-image: url("../../img/branding/rays/red-rays-full.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      box-shadow: 0 0 190px rgba(0,0,0,0.2) inset;
+      width: 100%;
+      cursor: pointer;
+      }
+      .boldMovesBox::after {
+      clear: both;
+      content: "";
+      display: table; }
+      .boldMovesBox .boldMovesBox-title {
+      display: block;
+      width: 100%;
+      margin: 0 auto 0;
+      padding: 3rem 11% 1rem;
+      text-align: center;
+      text-decoration: none;
+      border-bottom: 0 none;
+      cursor: pointer;
+      height: 100%;
+      overflow: visible;
+      z-index: 1; }
+      .boldMovesBox .boldMovesBox-title h3 {
+      display: block;
+      color: #fff;
+      font-size: 1.8rem;
+      text-transform: uppercase;
+      max-height: 190px;
+      overflow: hidden;;
+      -webkit-line-clamp: 6;
+      -webkit-box-orient: vertical;
+      text-shadow: 0 0 8px rgba(0,0,0,0.7);
+      line-height: 1.1em;
+      word-spacing: 0.1em;
+      cursor: pointer;
+      	font-family: "Effra W01", "Effra W01 Heavy", Helvetica, sans-serif;
+      font-weight: 900;
+      }
+      .boldMovesBox .boldMovesBox-title h3 .fa {
+      padding-left: 4px;
+      display: inline-block;
+      margin-right: -18px;
+      }
+      .boldMovesBox.engaged .boldMovesBox-title h3 {
+      border-bottom: 0 none;
+      padding: 0 0 2.2rem;
+      display: none;
+      }
+      .close-boldMovesBox {
+      display: none;
+      text-indent: -9999px;
+      padding: 12px;
+      opacity: 1;
+      z-index: 20;
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 56px;
+      height: 55px;
+      box-sizing: border-box;
+      opacity: .5;
+      cursor: pointer;
+      }
+      
+      .close-boldMovesBox .close-boldMovesBox-x {
+      display: block;
+      position: relative;
+      width: 100%;
+      height: 100%;
+      background: url(../../img/controls/x.png) no-repeat center center;
+      background-size: cover;
+      }
+      .close-boldMovesBox:hover {
+      opacity: 1;
+      }
+      .boldMovesBox.engaged .close-boldMovesBox {
+      display: block;
+      }
+      
+      @media (min-width: 601px) and (max-width: 900px) {
+      .boldMovesBox {
+      width: 50%;
+      height: 420px; } }
+      @media (min-width: 901px) {
+      .boldMovesBox {
+      width: 33.33%;
+      height: 420px;
+      transition: all .5s ease; } }
+      
+      .boldMovesBox .boldMovesBox-story {
+      position: absolute;
+      width: 110%;
+      height: 100%;
+      z-index: 20;
+      -webkit-transform: rotate(-8deg) translate(5%, -8%);
+      -ms-transform: rotate(-8deg) translate(5%, -8%);
+      transform: rotate(-8deg) translate(5%, -8%); }
+      .boldMovesBox .boldMovesBox-story p {
+      color: #fff;
+      font-size: 1.3rem;
+      padding: 28px 35px 0 40px;
+      line-height: 1.66;
+      z-index: 1;
+      display: none;
+      max-height: 300px;
+      text-overflow: ellipsis;
+      -webkit-line-clamp: 6;
+      -webkit-box-orient: vertical;
+      font-weight: 400;
+      overflow: hidden; }
+      .boldMovesBox .boldMovesBox-story p a {
+      color: #fff;
+      text-decoration: none;
+      cursor: pointer;
+      }
+      .boldMovesBox.engaged .boldMovesBox-story p {
+      display: block;
+      }
+      
+      @media (min-width: 901px) and (max-width: 1200px) {
+      .boldMovesBox .boldMovesBox-story p { } }
+      
+      @media (min-width: 601px) and (max-width: 800px) {
+      .boldMovesBox .boldMovesBox-story p {; } }
+      @media (max-width: 600px) {
+      .boldMovesBox .boldMovesBox-story p {; } }
+      @media (max-width: 360px) {
+      .boldMovesBox .boldMovesBox-story p { } }
+      .boldMovesBox .boldMovesBox-story .boldMovesBox-fullStory {
+      font-family: "Effra W01", Helvetica, sans-serif;
+      font-weight: 900;
+      text-align: center;
+      text-transform: uppercase;
+      text-decoration: none;
+      background: #000;
+      color: #fff;
+      font-size: 1.1rem;
+      padding: 0.5rem 0;
+      border: 2px solid #000;
+      padding: .4rem .5rem .6rem .6rem;;
+      width: 39%;
+      display: block;;
+      position: absolute;;
+      bottom: 120px;
+      left: 40px;
+      z-index: 32;;; }
+      .boldMovesBox .boldMovesBox-story .boldMovesBox-fullStory:hover {
+      background: transparent;
+      border-color: #fff; }
+      
+      
+      
+      @media (min-width: 1024px) {
+      .boldMovesBox .boldMovesBox-story .boldMovesBox-fullStory {
+      bottom: 160px;
+      }
+      .boldMovesBox .boldMovesBox-title h3 .fa {
+      opacity: 0;
+      }
+      .boldMovesBox:hover .boldMovesBox-title h3 .fa {
+      opacity: 1;
+      }
+      .boldMovesBox:hover .close-boldMovesBox,
+      .close-boldMovesBox {
+      display: none;
+      }
+      }
+      @media (min-width: 1101px) {
+      .boldMovesBox .boldMovesBox-story .boldMovesBox-fullStory {;
+      width: 39%; } }
+      @media (min-width: 1200px) {
+      .boldMovesBox .boldMovesBox-story .boldMovesBox-fullStory {;
+      width: 37%; } }
+      @media (min-width: 901px) and (max-width: 1100px) {
+      .boldMovesBox .boldMovesBox-story .boldMovesBox-fullStory {;
+      width: 50%; } }
+      @media (min-width: 601px) and (max-width: 740px) {
+      .boldMovesBox .boldMovesBox-story .boldMovesBox-fullStory {;
+      width: 54%; } }
+      @media (max-width: 600px) {
+      .boldMovesBox .boldMovesBox-story .boldMovesBox-fullStory {;
+      width: 140px; } }
+      .boldMovesBox .boldMovesBox-link {
+      display: block;
+      position: absolute;
+      bottom: 0.5rem;
+      right: 1rem;
+      z-index: 30;
+      color: #fff;
+      font-size: 1.25rem;
+      text-decoration: none;
+      left: auto;
+      text-align: right;
+      padding: 5px 0;
+      border-bottom: 2px solid transparent;
+      }
+      .boldMovesBox .boldMovesBox-link:hover {
+      border-bottom: 2px solid #fff;
+      cursor: pointer;
+      color: #fff;
+      }
+      
+      .boldMovesBox.engaged .boldMovesBox-link {
+      text-align: center;
+      color: #F9ADB0;
+      font-weight: normal;
+      }
+      .boldMovesBox.engaged .boldMovesBox-link:hover {
+      color: #fff;
+      }
+      .boldMovesBox .boldMovesBox-link span {
+      display: none; }
+      
+      @media (max-width: 600px) {
+      .boldMovesBox .boldMovesBox-story {
+      -webkit-transform: rotate(-8deg) translate(5%, -17%);
+      -ms-transform: rotate(-8deg) translate(5%, -17%);
+      transform: rotate(-8deg) translate(5%, -17%); } }
+      
+      @media (min-width: 601px) and (max-width: 700px) {
+      .boldMovesBox .boldMovesBox-story {
+      -webkit-transform: rotate(-8deg) translate(5%, -9%);
+      -ms-transform: rotate(-8deg) translate(5%, -9%);
+      transform: rotate(-8deg) translate(5%, -9%); } }
+      
+      @media (min-width: 701px) and (max-width: 900px) {
+      .boldMovesBox .boldMovesBox-story {
+      -webkit-transform: rotate(-8deg) translate(5%, -9%);
+      -ms-transform: rotate(-8deg) translate(5%, -9%);
+      transform: rotate(-8deg) translate(5%, -9%); } }
+      
+      @media (min-width: 901px) and (max-width: 1053px) {
+      .boldMovesBox .boldMovesBox-story {
+      -webkit-transform: rotate(-8deg) translate(5%, -10%);
+      -ms-transform: rotate(-8deg) translate(5%, -10%);
+      transform: rotate(-8deg) translate(5%, -10%); } }
+      
+      @media (min-width: 1054px) {
+      .boldMovesBox .boldMovesBox-story {
+      -ms-transform: rotate(-8deg) translate(5%, -12%);
+      -webkit-transform: rotate(-8deg) translate(5%, -12%);
+      transform: rotate(-8deg) translate(5%, -12%);; } }
+      
+      .boldMovesBox:nth-child(1) {
+      clear: both; }
+      
+      .boldMovesBox {
+      border-right: 1px solid #fff;
+      border-bottom: 1px solid #fff;
+      }
+      
+      .boldMovesBox:nth-child(1) .boldMovesBox-story,
+      .boldMovesBox:nth-child(5) .boldMovesBox-story {
+      background: maroon;
+      border-top: 12px solid #d52027; }
+      
+      .boldMovesBox:nth-child(3) .boldMovesBox-story,
+      .boldMovesBox:nth-child(4) .boldMovesBox-story {
+      background: maroon;
+      border-top: 6px solid #d52027; }
+      
+      .boldMovesBox:nth-child(2) .boldMovesBox-story,
+      .boldMovesBox:nth-child(6) .boldMovesBox-story {
+      background: #d52027;
+      border-top: 24px solid maroon; }
+      
+      
+      .boldMovesBox.engaged .boldMovesBox-title {;
+      position: relative;; }
+      
+      .boldMovesBox.engaged .boldMovesBox-story {
+      -webkit-transform: rotate(0) translate(0, 0);
+      -ms-transform: rotate(0) translate(0, 0);
+      transform: rotate(0) translate(0, 0);
+      top: 0;
+      border-top: none;
+      background: rgba(213, 32, 39, 0.75);
+      left: 0;
+      width: 100%;
+      right: 0;
+      z-index: 2; }
+      
+      .boldMovesBox.engaged .boldMovesBox-link span {
+      display: inline; }
+      
+      
+      
+      
+      
+      
+      .boldMoves h2 {
+      float: left;
+      width: 66%; }
+      .jumpAwayLink {
+      float: right;
+      width: 33%;
+      line-height: 2rem;
+      text-align: right;
+      margin-top: 0.5rem; }
+      .jumpAwayLink a {
+      text-decoration: none;
+      font-size: 1rem;
+      color: #FFBDC0;
+      }
+      .jumpAwayLink a:hover {
+      color: #fff;
+      }
+      }
+      
+      
+      .boldMoves .jumpAwayLink a {
+      color: #900; }
+      .boldMoves .jumpAwayLink a:hover {
+      color: #d52027; }
+      
+      
+      
+      
+      
+      
+      
+      			
+      
+   </style>
+   <script src="gcalLoader.js" type="text/javascript"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/responsive.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/plugins.js"></script>
+   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"></link>
+   <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/8b09d344-baa0-42a8-bbac-175ff46c86d5.css"></link>
+   <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/ee71ef3e-a7f1-47dd-8ae1-4ae6bec02b30.css"></link>
+   <link href="/commcms/_resources/plugins/owl-carousel/owl.carousel.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/owl-carousel/owl.carousel.custom.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/banner-buttons/banner-buttons.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/owl-carousel/owl.theme.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/owl-carousel/owl.transitions.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/slick/slick.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/slick/slick-theme.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/css/sb/filter/text-filter.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/plugins/faculty-list/faculty-list.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/tablesaw/tablesaw.bare.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/css/sb/accordion-nav/accordion-nav-v2.css" rel="stylesheet" type="text/css"></link>
+   <link href="/commcms/_resources/plugins/tooltipster/tooltipster.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/tooltipster/themes/tooltipster-light.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/nivo-lightbox/nivo-lightbox.css" rel="stylesheet"></link>
+   <link href="/commcms/_resources/plugins/nivo-lightbox/themes/default/custom.css" rel="stylesheet"></link>
+   <script src="/commcms/_resources/js/sb-v2/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+</head>
+<body class="responsive-template new-brand" data-template-version="2" data-ou-page-path="http://www.stonybrook.edu/commcms/grad/index.php" data-ou-dirname="/grad">
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P43R9T&gtm_auth=jCHsNovKQBjtTL9y_RXzMQ&gtm_preview=env-1&gtm_cookies_win=x"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    '//www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=jCHsNovKQBjtTL9y_RXzMQ&gtm_preview=env-1&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-P43R9T');</script>
+    <!-- End Google Tag Manager -->
+
+<!--Facebook SDK-->
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1111836582191622',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!--[if lt IE 8]>
+    <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience. Thanks!</p>
+<![endif]-->
+
+
+
+
+<!-- Campaign Forms -->
+<div id="landing_2017_students__wrapper" class="hidden">
+	<div><a id="campaign_trigger_onload" class="clearfix nivo-lightbox_captcha-form" href="inc/widgets/forms/campaign-form-landing-2017-students-ajax-content.php" data-lightbox-type="ajax" data-campaign-id="landing_2017_students">Contact SBU</i></a></div> 
+</div><!-- ouc:editor csspath="/_resources/ou/editor/includes.css" cssmenu="/_resources/ou/editor/includes.txt" width="955"/ -->
+   <div id="emergency-message-container"></div>
+   <div id="main-wrapper">
+      <div id="main"><div class="cms-site-search-wrapper clearfix">
+	<div class="cms-site-search search-bar clearfix hide-accessible">
+		<div class="search">
+			<form class="form-search clearfix" action="https://www.stonybrook.edu/search" method="get" name="seek1">
+				<input id="search-query" class="search-txt" type="search" name="q" value="" maxlength="100" placeholder="Enter search term" />
+				<input id="site-name" type="hidden" name="site" value="" />
+				<input id="page-fade" type="hidden" name="pf" value="1" />
+				<input class="search-btn" type="submit" />
+			</form>
+		</div>
+		<form class="toggle-wrapper">
+			<div class="switch switch-red">
+				<input type="radio" class="switch-input" name="view" value="site-search" id="site-search" checked="checked" tabindex="0" role="button" aria-label="Search Just This Site">
+				<label for="site-search" class="switch-label switch-label-off">Just This Site</label>
+				<input type="radio" class="switch-input" name="view" value="sb-search" id="sb-search" tabindex="0" role="button" aria-label="Search all of Stony Brook University">
+				<label for="sb-search" class="switch-label switch-label-on">SBU Website</label>
+				<span class="switch-selection"></span>
+			</div>
+		</form>
+	</div>
+	<div class="searchWrap">
+	   <span class="search-sb" tabindex="3" role="button" aria-label="Search">Search</span>
+	</div>
+</div>
+         <div class="nav-elements-container ">
+            <div class="cms-search">
+               <nav id="header" class="quick-nav clearfix" data-search-style="default">
+                  <div class="quick-nav-wrapper clearfix">
+                     <ul class="no-pad-wrapper border-box   quicknav_selected_ clearfix"><li>
+   <a href="http://stonybrook.edu/commcms/grad/prospective_students" target="">
+      <span class="label clearfix">Prospective Students</span>
+   </a>
+</li>
+<li>
+   <a href="http://stonybrook.edu/commcms/grad/current_students" target="">
+      <span class="label clearfix">Current Students</span>
+   </a>
+</li>
+<li>
+   <a href="http://stonybrook.edu/commcms/grad/faculty" target="">
+      <span class="label clearfix">Faculty/Staff</span>
+   </a>
+</li>                        <li class="search-trigger-wrapper">
+                           <span class="search-trigger">
+                              <span class="label clearfix">Search</span>
+                           </span>
+                        </li>
+                     </ul><div class="search-container default clearfix border-box">
+	<form class="search-wrapper" action="https://www.stonybrook.edu/search" method="get">
+		<input type="text" id="search-form-query1" name="q" title="Search" value="" class="populate" size="30" maxlength="100" placeholder="Search" /><button name="submit" type="submit" class="btn btn-success" id="search-form-submit1" alt="Do search">
+		<i class="icon fa fa-search"></i>
+		</button>
+		<input id="search-form-site" type="hidden" name="site" value="" />
+		<input id="page-fade" type="hidden" name="pf" value="1" />
+	</form>
+</div>
+                  </div>
+               </nav>
+            </div>
+         </div>
+         <div class="logo-container clearfix border-box ">
+            <header class="header clearfix">
+               <div class="logo-wrapper clearfix">
+                  <div class="logo">
+                     <a href="http://www.stonybrook.edu/">
+                        <img src="/commcms/_resources/images/stony-brook-university-logo.jpg" alt="Stony Brook University" width="357" height="68"></img>
+                     </a>
+                  </div>
+                  <div class="site-name serif">
+                     <a class="" href="http://www.stonybrook.edu/commcms/grad/">Graduate School</a>
+                  </div>
+               </div>
+            </header>
+         </div>
+         <div class="navWrap  sitenav clearfix"><!-- ouc:editor csspath="/_resources/ou/editor/includes.css" cssmenu="/_resources/ou/editor/includes.txt" width="955"/ --><ul>
+<li class="home-icon"><a href="/commcms/grad/"><span class="hide-accessible">Home</span></a></li>
+<!--<li>
+		<a href="#">Section 1</a>
+		<ul>
+			<li><a href="#">Sub Page 1</a></li>
+			<li><a href="#">Sub Page 2</a></li>
+			<li><a href="#">Sub Page 3</a></li>
+			<li><a href="#">Sub Page 4</a></li>
+		</ul>
+	</li>-->
+<li><a href="/commcms/grad/admissions/admissions.php">Admissions</a></li>
+<li><a href="/commcms/grad/academics/">Academics</a></li>
+<li><a href="/commcms/grad/cost-funding/">Cost &amp; Funding</a></li>
+<li><a href="/commcms/grad/diversity">Diversity</a></li>
+<li><a href="/commcms/grad/professional-development">Professional Development</a></li>
+<li><a href="/commcms/grad/news/">News</a></li>
+<li><a href="/commcms/grad/about">About</a></li>
+<!--<li><a href="/commcms/grad/faculty">Faculty/Staff</a></li>--></ul>
+</div>
+         <div class="content-wrapper clearfix">
+            <link rel="stylesheet" type="text/css" href="/commcms/_resources/css/owl-carousel/owl.carousel.css" media="all"></link>
+            <link rel="stylesheet" type="text/css" href="/commcms/_resources/css/owl-carousel/owl.theme.css" media="all"></link>
+            <link rel="stylesheet" type="text/css" href="/commcms/_resources/css/owl-carousel/owl.custom.css" media="all"></link>
+            <link rel="stylesheet" type="text/css" href="/commcms/_resources/css/owl-carousel/owl.transitions.css" media="all"></link>
+            <script src="/commcms/_resources/js/owl-carousel/owl.carousel.min.js"></script>
+            <script type="text/javascript">
+               					$(document).ready(function () {
+               
+               					var owl = $("#the-carousel-1");
+               
+               					var owlSlides = owl.children('.item').length;
+               					var autoPlayValue = '';
+               					if(owlSlides==1) {
+               					autoPlayValue = false;
+               					$('.owl-prev-1').remove();
+               					$('.owl-next-1').remove();
+               					} else {
+               					autoPlayValue = 8000;
+               					$('.owl-prev-1').on('click', function() {
+               					owl.trigger('owl.prev');
+               					});
+               					$('.owl-next-1').on('click', function() {
+               					owl.trigger('owl.next');
+               					});
+               					}
+               
+               					owl.owlCarousel({
+               					autoPlay: autoPlayValue,
+               					navigation : false, // Show default next and prev buttons
+               					slideSpeed : 300,
+               					paginationSpeed : 400,
+               					singleItem: true,
+               					transitionStyle : "fade"
+               					});
+               
+               					});
+               				
+            </script>
+            <div class="marquee-section marquee-section-larger full_width_splash_vertical  hide-marquee-dots hide-marquee-arrows shorter-height &#xA;&#x9;&#x9;&#x9;&#x9;&#x9;banner-position_left clearfix">
+               <div id="the-carousel-1" class="owl-carousel">
+                  <div class="item">
+                     <div class="responsive-splash-header-1 clearfix" style="background-image: url('//www.stonybrook.edu/commcms/user/commcms/wwwldp/images/.private_ldp/a108667/production/master/dc96baff-500c-46ae-a07b-772a4b579ea8.jpg')">
+                        <div class="splash-overlay-double-wrapper">
+                           <div class="splash-overlay-wrapper">
+                              <div class="splash-overlay-1"></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="container-wrapper">
+               <div class="clearfix responsive-container">
+                  <div class="maincontent-before clearfix"></div>
+               </div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container wrapper">
+                  <div id="row_1" class="clearfix">
+                     <div class="col">
+                        <div class="section_header">In The Spotlight</div>
+                        <div class="col_content clearfix">
+                           <p> </p>
+                           <div style="background-image: url('/commcms/grad/_images/webimages/nsfgr_crop.jpg'); width: 100%; height: 230px; margin-right: 10px; margin-bottom: 5px; background-size: cover; background-repeat: no-repeat; background-position-y: 0px;"> </div>
+                           <div>
+                              <span>Seven Stony Brook student researchers earned prestigious fellowships from the 2017
+                                 National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP). The
+                                 NSF chose 2,000 winners out of more than 13,000 applicants from 449 institutions nationwide.
+                                 
+                              </span><br/>
+                              <!-- <a href="http://www.stonybrook.edu/commcms/grad/news/Elise_Lauterbur.php">
+                <em>More details &raquo;</em>
+            </a>-->
+                           </div>
+                           <p>
+                              <a class="sbu-outline-button sbu-outline-button--red sbu-outline-button--on-white arrow-after" href="/commcms/grad/Seven Stony Brook student researchers earned prestigious fellowships from the 2017 National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP). The NSF chose 2,000 winners out of more than 13,000 applicants from 449 institutions nationwide.">READ MORE</a>
+                           </p>
+                        </div>
+                     </div>
+                     <div class="col">
+                        <div class="section_header">News &amp; Announcements</div>
+                        <div class="col_content clearfix">
+                           <p>
+                              <a href="/happenings/student-spotlight/five-students-win-fulbright-scholarships/?spotlight=1#prettyPhoto" target="_blank">Five Students Receive Fulbright Honors</a>
+                           </p>
+                           <p>
+                              <a href="/commcms/grad/news/Anthony_Teets.php" target="_blank">Anthony Teets Q&amp;A: Learning from Feedback, Finding Balance</a>
+                           </p>
+                           <p>
+                              <a href="/commcms/grad/news/Elise_Lauterbur.php" target="_blank">Elise Lauterbur Q&amp;A: From Statistics to Field Methods, Designing Courses Around Active
+                                 Learning
+                              </a>
+                           </p>
+                           <p>
+                              <a href="http://sbgso.org/index.php/studentlife/art-competition-menu" target="_blank">GSO Art Competition Asks "What Does Gender Equality Mean to You?"</a>
+                           </p>
+                           <p>
+                              <a href="/commcms/grad/news/Michelle_Ho.php" target="_blank">Michelle Ho Q&amp;A: Turning Difference into Strength, Striking Balance</a>
+                           </p>
+                           <p>
+                              <a href="/commcms/grad/news/2017%203MT.php" target="_blank">Stony Brook Hosts Three Minute Thesis Competition</a>
+                           </p>
+                           <p>
+                              <a href="/commcms/grad/news/Jessica_Sims.php" target="_blank">Understanding How Domestic Violence (Re)Shapes Identity: A Conversation with Jessica
+                                 Sims
+                              </a>
+                           </p>
+                           <!--<p>
+			<a href="http://www.stonybrook.edu/commcms/grad/news/Nichole_UT.php" target="_blank">Stony Brook Alumna Nichole S. Prescott Joins UT System</a>		 </p>-->
+                           <p> </p>
+                           <p> </p>
+                           <!--<p>
+			<a href="http://www.stonybrook.edu/commcms/grad/news/Nichole_Conversation.php" target="_blank">Forging a Stronger Education Pipeline: a Conversation with Nichole S. Prescott</a>
+		</p>-->
+                           <p>
+                              <a class="sbu-outline-button sbu-outline-button--red sbu-outline-button--on-white arrow-after" href="/commcms/grad/news/index.php">MORE NEWS</a>
+                           </p>
+                        </div>
+                     </div>
+                     <div class="col">
+                        <div class="section_header">Academic Calendar</div>
+                        <div class="col_content clearfix">
+                           <div id="googleCalHolder"> </div>
+                           <p>
+                              <a class="sbu-outline-button sbu-outline-button--red sbu-outline-button--on-white arrow-after" href="https://calendar.google.com/calendar/embed?src=stonybrook.edu_duvnpho4ivdto0seneac2iigrg@group.calendar.google.com&amp;ctz=America/New_York">See More Details</a>
+                           </p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="clearfix responsive-container">
+                  <div class="white-text" style="background-color: #990000; font-family: 'Effra W01'; text-align: center !important; vertical-align: middle !important; line-height: 80px;">
+                     <p style="font-weight: 900; font-size: 40px; display: inline-block; text-align: center; vertical-align: middle; line-height: normal;">Master Your Future. Transform Tomorrow.</p>
+                  </div>
+                  <div class="clearfix responsive-container">
+                     <div class="slick-content-wrapper">
+                        <div class="slick-slider promo-section-inside " data-num-slides="4">
+                           <div>
+                              <a href="http://sb.cc.stonybrook.edu/gradbulletin/current/">
+                                 <img src="/commcms/grad/grid-images/Bulletin.jpg" alt="Graduate Bulletin"></img>
+                                 <span class="label">Graduate Bulletin</span>
+                              </a>
+                           </div>
+                           <div>
+                              <a href="http://www.stonybrook.edu/commcms/cie/">
+                                 <img src="/commcms/grad/grid-images/CIE_New.jpg" alt="Center for Inclusive Education"></img>
+                                 <span class="label">Center for Inclusive Education</span>
+                              </a>
+                           </div>
+                           <div>
+                              <a href="http://www.stonybrook.edu/commcms/irep/">
+                                 <img src="/commcms/grad/grid-images/irep.jpg" alt="IREP Office"></img>
+                                 <span class="label">IREP Office</span>
+                              </a>
+                           </div>
+                           <div>
+                              <a href="http://stonybrook.edu/commcms/grad/news">
+                                 <img src="/commcms/grad/grid-images/news.jpg" alt="Graduate School News"></img>
+                                 <span class="label">Graduate School News</span>
+                              </a>
+                           </div>
+                           <div>
+                              <a href="http://career.stonybrook.edu/">
+                                 <img src="/commcms/grad/grid-images/DAgati%20Michael_040.jpg" alt="Career Center"></img>
+                                 <span class="label">Career Center</span>
+                              </a>
+                           </div>
+                           <div>
+                              <a href="http://www.stonybrook.edu/commcms/grad/academics/ddd.php">
+                                 <img src="/commcms/grad/grid-images/graduation.jpg" alt="Doctoral Dissertations &amp; Recitals"></img>
+                                 <span class="label">Doctoral Dissertations &amp; Recitals</span>
+                              </a>
+                           </div>
+                           <div>
+                              <a href="http://www.centerforcommunicatingscience.org/">
+                                 <img src="/commcms/grad/grid-images/Katy%20Alan%20Alda.jpg" alt="Alan Alda Center for Communicating Science"></img>
+                                 <span class="label">Alan Alda Center for Communicating Science</span>
+                              </a>
+                           </div>
+                           <div>
+                              <a href="http://sbgso.org/">
+                                 <img src="/commcms/grad/grid-images/Grad%20Student%20Vahideh%20Rasekhi.jpg" alt="Graduate Student Organization"></img>
+                                 <span class="label">Graduate Student Organization</span>
+                              </a>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="clearfix responsive-container">
+                  <div class="promo-section promo-section-1 white-text clearfix responsive-container" style="background-image: url('/commcms/_resources/images/promo-bkg/rays/red-rays-cropped-1.png')">
+                     <div class="content wrapper">
+                        <h1 style="text-align: center;">
+                           <span>Life At SBU : Where Excellence Meets Opportunity</span>
+                        </h1>
+                        <div style="width:100%;padding-top:50px">
+                           <div style="float:left; width:50%;">
+                              <iframe src="https://www.youtube.com/embed/j7BeRGksD04" width="90%" height="455" frameborder="0"></iframe>
+                           </div>
+                           <div style="float:left; width:50%;">
+                              <iframe src="https://www.youtube.com/embed/hbgz6F2Gjok" width="90%" height="455" frameborder="0"></iframe>
+                           </div>
+                        </div>
+                        <p> </p>
+                        <div style="width:100%;">
+                           <a href="http://www.stonybrook.edu/commcms/grad/about/whySB.php" class="sbu-outline-button sbu-outline-button--black sbu-outline-button--black--hover-transparent arrow-after center-on-mobile" title="See More Videos" style="width: 240px;top:50%;left:50%;position:relative;margin:0px -150px">See More Videos</a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+               <div class="clearfix responsive-container"></div>
+            </div>
+         </div>
+         <aside class="social-sidebar">
+            <div class="sidebar-wrapper clearfix">
+               <a class="facebook-blue-bkg facebook-blue-hover circle" href="https://www.facebook.com/sunysb.gradschool/" title="Connect with us on Facebook!" target="_blank">
+                  <span class="label">Facebook</span>
+                  <em class="fa fa-facebook"></em>
+               </a>
+               <a class="twitter-blue-bkg twitter-blue-hover circle" href="https://twitter.com/gradsbu" title="Check out our latest Tweets!" target="_blank">
+                  <span class="label">Twitter</span>
+                  <em class="fa fa-twitter"></em>
+               </a>
+               <a class="instagram-blue-bkg instagram-blue-hover circle" href="https://www.instagram.com/stonybrooku/" title="Find us on Instagram!" target="_blank">
+                  <span class="label">instagram</span>
+                  <em class="fa fa-instagram"></em>
+               </a>
+               <a class="youtube-red-bkg youtube-red-hover circle" href="https://www.youtube.com/channel/UCvv5VumwLRzTvK4GS3HzmpQ" title="Watch our YouTube videos!" target="_blank">
+                  <span class="label">youtube</span>
+                  <em class="fa fa-youtube"></em>
+               </a>
+               <a class="white-bkg pinterest-red-hover circle print" href="javascript:window.print()" title="Print this page" target="_blank">
+                  <span class="label">print</span>
+                  <em class="fa fa-print"></em>
+               </a>
+            </div>
+         </aside>
+         <div id="footer"><div id="footer"><div class="site-addr-info site-addr-info_address">
+   <span class="site-addr site-addr-1">2401 Computer Science Building</span>
+   <span class="site-addr site-addr-2">Stony Brook, NY - 11794-4433</span>
+</div>
+<div class="site-addr-info site-addr-info_phone">
+   <span class="site-phone site-phone-1">Phone: (631) 632 4723</span>
+</div>
+<div class="site-addr-info site-addr-info_hours site-addr-info_hours_label">
+   <span class="site-addr site-addr-1">Office Hours:</span>
+</div>
+<div class="site-addr-info site-addr-info_hours">
+   <span class="site-addr site-addr-2">Monday - Friday : 8:30AM - 4:00PM</span>
+</div>
+<div class="site-addr-info site-addr-info_hours"></div>
+<div class="site-addr-info site-addr-info_hours"></div></div>            <div class="site-copyright-info">
+               <a id="cbw-edit" class="cbw-edit" href="http://a.cms.omniupdate.com/10?skin=oucampus&amp;account=suny-stonybrook&amp;site=sbcms&amp;action=de&amp;path=/grad/index.pcf" target="_blank">©</a>
+               <span class="the-current-year">2017</span>
+               <a href="http://www.stonybrook.edu/">Stony Brook University</a>
+            </div>
+         </div>
+      </div>
+   </div><!-- ouc:editor csspath="/_resources/ou/editor/includes.css" cssmenu="/_resources/ou/editor/includes.txt" width="955"/ -->
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-30058444-1']);
+	_gaq.push(['_setDomainName', 'stonybrook.edu']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+   <script type="text/javascript" src="http://www.stonybrook.edu/js/vendor/jquery.sticky.js"></script>
+   <script type="text/javascript" src="http://www.stonybrook.edu/js/vendor/jquery.easing.1.3.js"></script>
+   <script type="text/javascript" src="http://www.stonybrook.edu/js/vendor/jquery.easing.compatibility.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/vendor/jquery.fittext.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/vendor/jquery.fastLiveFilter.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/vendor/jquery.scrollTo.min.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/vendor/jquery.localScroll.min.js"></script>
+   <script type="text/javascript" src="http://www.stonybrook.edu/js/vendor/jquery.ba-bbq.js"></script>
+   <script type="text/javascript" src="http://www.stonybrook.edu/js/vendor/jquery.motio.js"></script>
+   <script type="text/javascript" src="http://www.stonybrook.edu/js/vendor/jquery.tooltipster.min.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/filter/text-filter.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/vendor/waypoints/jquery.waypoints.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/vendor/waypoints/shortcuts/inview.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/vendor/countUp.min.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/plugins/slick/slick.min.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/plugins/nivo-lightbox/nivo-lightbox.min.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb-v2/main.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/plugins/tablesaw/tablesaw.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb/accordion-nav/accordion-nav.js"></script>
+   <script type="text/javascript" src="/commcms/_resources/js/sb/vendor/tooltipster/jquery.tooltipster.min.js"></script><!-- ouc:button --><div class="cbw-edit" style="text-align:center;z-index:5000;"><a href="http://a.cms.omniupdate.com/10?skin=oucampus&amp;account=suny-stonybrook&amp;site=sbcms&amp;action=de&amp;path=/grad/index.pcf"  class="cbw-edit" target="_top"><img src="//www.stonybrook.edu/commcms/outemplates/dired.gif" alt="Login to Edit" style="border:0px; width:100px; height:10px;" /></a></div><!-- /ouc:button --></body></html>
